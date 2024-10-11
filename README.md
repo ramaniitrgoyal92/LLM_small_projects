@@ -1,1 +1,1 @@
-# LLM_small_projects
+# Small Fun projects using LLM 
